@@ -6,3 +6,5 @@ valor_inicial = st.number_input("Ingrese el valor inicial")
 valor_final = st.number_input("Ingrese el valor final")
 
 lista numérica = list(range(valor_inicial, valor_final))
+
+st.write(lista_numérica)
